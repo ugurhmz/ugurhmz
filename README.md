@@ -9,9 +9,4 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ugur-hamzaoglu//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/UgurHmz)  
 
 
-
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Ugurhamzaoglu67&show_icons=true&theme=radical)
-
-
  <img src="https://github.com/Ugurhamzaoglu67/ugurhamzaoglu67/blob/main/spor.jpeg" width="auto" height="320">
