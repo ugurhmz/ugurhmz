@@ -1,4 +1,4 @@
-### Hi I'm Ugur Hamzaoglu 👋
+### Hi I'm Ugur Hamzaoglu , I'm studying Electrical and Electronics engineering (Senior class) 👋
 
 - 🔭 I’m currently learning Python / Django / Node.js / Express.js / JavaScript 
 - 🌱 For more than 2.5 years I have been interested in Muay Thai, Kickbox as an amateur.
