@@ -1,4 +1,4 @@
-### Hi I'm Ugur Hamzaoglu , I'm studying Electrical and Electronics engineering (Senior class) 👋
+### Hi I'm Ugur Hamzaoglu , I'm studying Electrical and Electronics engineering (Senior class) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 - 🔭 I’m currently learning Python / Django / Node.js / Express.js / JavaScript 
 - 🌱 For more than 2.5 years I have been interested in Muay Thai, Kickbox as an amateur.
@@ -6,8 +6,12 @@
 - 😄 My other hobbies are: Camping, Poetry
 #### ⚡ My philosophy is: "You become whatever energy you give to life."
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ugur-hamzaoglu//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/UgurHmz)  
+<h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<p align = 'center'>
+<a href = 'https://www.linkedin.com/in/ugur-hamzaoglu/'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/UgurHmz'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 
+</p>
 <p align = 'center'>
  <img src="https://github.com/Ugurhamzaoglu67/ugurhamzaoglu67/blob/main/spor.jpeg" width="auto" height="320">
 
