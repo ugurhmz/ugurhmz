@@ -15,7 +15,7 @@
 
 - 🌱 For more than 2.5 years I have been interested in Muay Thai, Kickbox as an amateur.
 - 🤔 I also dealing with NLP, Personal Development for 5 years. I have been actively interested for 3 years. I have been writing a blog about NLP, Personal development, Rituals  for nearly a year. [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://sanayazilarim.blogspot.com/)
-- 😄 My other hobbies are: Camping, Poetry
+- 😄 My other hobbies are: Camping, Poetry, PC Games
 #### ⚡ My philosophy is: "You become whatever energy you give to life."
 
 <h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
