@@ -11,7 +11,7 @@
 <br>
 </p>
 
--  Muay Thai
+-  Muay Thai, Kicboxing
 - [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://sanayazilarim.blogspot.com/)
 - Camping, Poetry, PC Games
 #### ⚡ My philosophy is: "You become whatever energy you give to life."
