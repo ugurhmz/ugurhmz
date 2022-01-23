@@ -5,8 +5,8 @@
 
 
 
--  Muay Thai, Kicboxing
-- [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://sanayazilarim.blogspot.com/)
+-  Muay Thai, Kicboxing (+2.5 years)
+- [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://sanayazilarim.blogspot.com/) ( +110k views )
 - Camping, Poetry, PC Games
 #### ⚡ Hayata Verdiğin enerji ne ise, ona dönüşürsün..."
 
