@@ -4,7 +4,6 @@
 #### Hi I'm Ugur Hamzaoglu , I'm  Electrical and Electronics engineer <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px></h1>
 
 
-
 -  Muay Thai, Kicboxing (+2.5 years)
 - [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://sanayazilarim.blogspot.com/) ( +110k views )
 - Camping, Poetry, PC Games
