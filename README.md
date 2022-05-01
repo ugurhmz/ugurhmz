@@ -26,7 +26,6 @@
 <br>
 </p>
 
-  ![](https://komarev.com/ghpvc/?username=ugurhmz&label=PROFILE+VIEWS)
 
 
 
