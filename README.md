@@ -1,4 +1,11 @@
 
+
+- Muay Thai/Kickboxing 🥊
+- Camping 🏕
+- Swimming 🌊
+- Coding & more Coffee ☕️☕️ 👨🏻‍💻
+
+
 <a href = 'https://www.linkedin.com/in/ugur-hamzaoglu/' > <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>   
 
 <h2>
