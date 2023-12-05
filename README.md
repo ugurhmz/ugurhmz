@@ -1,6 +1,5 @@
 
 
-- Muay Thai/Kickboxing 🥊
 - Camping 🏕
 - Swimming 🌊
 - Coding & more Coffee ☕️☕️ 👨🏻‍💻
