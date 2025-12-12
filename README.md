@@ -26,9 +26,6 @@
  <img width ='50px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
 
 
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugurhmz&theme=nightowl&show_icons=true)
-
 <br>
 </p>
 
