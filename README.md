@@ -1,7 +1,7 @@
 <div align="center">
 
   <h2>Uğur Hamzaoğlu 👋</h2>
-  <h4>iOS Developer  | Software Engineer</h4>
+  <h4>iOS Developer  | Software Developer</h4>
 
   <p>
     🏕 Camping • 🌊 Swimming • ☕️ Coffee & Code
