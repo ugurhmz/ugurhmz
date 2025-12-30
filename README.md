@@ -27,7 +27,7 @@
     </a>
   </p>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ugurhmz/ugurhmz/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/ugurhmz/ugurhmz/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Languages" />
+  <img src="https://img.shields.io/github/followers/ugurhmz?label=Followers&style=flat&color=000000" height="30" />
+  <img src="https://img.shields.io/github/stars/ugurhmz?label=Stars&style=flat&color=FA7343" height="30" />
 </div>
 </div>
