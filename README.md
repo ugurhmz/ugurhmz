@@ -26,5 +26,8 @@
       <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,vue,react,html,bootstrap,mysql,mongodb,git,docker&perline=12" height="25" />
     </a>
   </p>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ugurhmz/ugurhmz/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/ugurhmz/ugurhmz/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Languages" />
+</div>
 </div>
